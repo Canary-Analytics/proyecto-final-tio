@@ -29,4 +29,4 @@ Nuestro proyecto consiste en identificar los "tweets" asociados a hashtags en la
 
 ### Creación de un repositorio de contenidos
 
-El repositorio de nuestro proyecto que vamos a usar: (Repositorio)[https://github.com/Grupo-3-TIO/proyecto-final-tio]
+El repositorio de nuestro proyecto que vamos a usar: [https://github.com/Grupo-3-TIO/proyecto-final-tio](Repositorio)
