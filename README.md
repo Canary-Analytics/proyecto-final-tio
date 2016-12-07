@@ -32,11 +32,13 @@ La herramienta twitter-archiver nos proporciona los tweets relacionados con el H
 
 ### Resultados esperados
 
-Como resultado de nuestro proyecto esperamos identificar los lugares turísticos que más repercución tienen, y analizar si dicha repercución es positiva, negativa o neutra. 
+Como resultado de nuestro proyecto esperamos identificar los lugares turísticos que más repercución tienen, y analizar si dicha repercución es positiva, negativa o neutra.
 
 ### Diagrama de Gantt
 
+![Gantt](./img/gantt1.png)
 
+![Gantt](./img/gantt2.png)
 
 ### Propuestas de modelo de negocios para el desarrollo
 
