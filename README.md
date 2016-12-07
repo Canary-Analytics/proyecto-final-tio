@@ -15,7 +15,7 @@ Nuestro proyecto consiste en identificar los "tweets" asociados a hashtags en la
 
 ### Nombre de nuestro proyecto
 
-
+Canary Analytics
 
 ### Propuesta tecnológica
 
@@ -28,7 +28,7 @@ Dado que se requiere una gran cantidad de datos, para obtener un resultado fiabl
 
 ### Procesamiento de datos y transformaciones
 
-
+La herramienta twitter-archiver nos proporciona los tweets relacionados con el Hashtag indicado y los almacena automáticamente en una hoja de cálculo. Este fichero contiene el nombre de la persona que publica el tweet, el propio mensaje, la geolocalización y otros datos de interés. La idea principal consiste en analizar el texto de los mensajes y así poder obtener datos estadísticos de los lugares más visitados de Canarias, desde donde twitean, datos demográficos, usuarios más influyentes y los dispositivos que más se utilizan.
 
 ### Resultados esperados
 
