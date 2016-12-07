@@ -23,6 +23,7 @@ Para realizar nuestro proyecto, vamos a hacer uso de diversas herramientas. La p
 
 ### Fuentes de datos
 
+Dado que se requiere una gran cantidad de datos, para obtener un resultado fiable hemos obtado por utilizar datos públicos de la red social ```Twitter```. Una vez obtengamos estos datos de ```Twitter```, haciendo uso de las herremientas mencionadas anteriormente, se almacenarán y posteriormente se procesarán dichos datos.
 
 
 ### Procesamiento de datos y transformaciones
