@@ -15,7 +15,7 @@ Nuestro proyecto consiste en identificar los "tweets" asociados a hashtags en la
 
 ### Nombre de nuestro proyecto
 
-Canary Analytics
+Canary Analytics.
 
 ### Propuesta tecnológica
 
@@ -32,7 +32,7 @@ La herramienta twitter-archiver nos proporciona los tweets relacionados con el H
 
 ### Resultados esperados
 
-
+Como resultado de nuestro proyecto esperamos identificar los lugares turísticos que más repercución tienen, y analizar si dicha repercución es positiva, negativa o neutra. 
 
 ### Diagrama de Gantt
 
