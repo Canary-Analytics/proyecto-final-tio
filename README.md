@@ -42,7 +42,7 @@ Como resultado de nuestro proyecto esperamos identificar los lugares turísticos
 
 ### Propuestas de modelo de negocios para el desarrollo
 
-
+La idea de modelo de negocio es hacer ver a las empresas su impacto en las redes sociales, viendo cuánto y cómo se habla de ellos en ```Twitter```, si los comentarios son positivos o negativos.
 
 ### Creación de un repositorio de contenidos
 
