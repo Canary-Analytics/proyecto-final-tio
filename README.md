@@ -1,5 +1,7 @@
 # Proyecto final TIO 2016-2017 Grupo 4
 
+![Logo](./img/logo.png)
+
 ### Participantes:
 
 * Alejandro Arzola García
