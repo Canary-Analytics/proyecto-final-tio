@@ -1,6 +1,8 @@
 # Proyecto final TIO 2016-2017 Grupo 4
 
-![Logo](./img/logo.png)
+<p align="center">
+  <img src="./img/logo.png" title="Perfiles aerodinamicos.">
+</p>
 
 ### Participantes:
 
